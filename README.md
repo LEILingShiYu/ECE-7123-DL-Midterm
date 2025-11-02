@@ -21,4 +21,4 @@ The model is trained on A100 GPU provided by colab.
 Follow the [notebook](https://github.com/LEILingShiYu/ECE-7123-DL-Midterm/blob/main/MidtermCode.ipynb) instruction to Train and Infer and save the model checkpoint & submission file on test dataset
 
 # Related Resource
-Model checkpoint:
+[Model checkpoint](https://drive.google.com/drive/folders/17FzCejuLutY7EfM34w2x2uLmbqxbVRhQ?usp=sharing)
